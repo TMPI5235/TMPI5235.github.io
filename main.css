@@ -4,6 +4,8 @@ body {
 div{
     background: white;
     width: 300px;
+    text-align: center;
+    padding: 5px;
 }
 table, th, td {
     border: solid 1px gray; 
