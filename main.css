@@ -6,6 +6,7 @@ div{
     width: 300px;
     text-align: center;
     padding: 5px;
+    margin: 30px auto;
 }
 table, th, td {
     border: solid 1px rgb(255, 0, 0); 
