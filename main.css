@@ -2,7 +2,7 @@ body {
     background-color: aqua;
 }
 div{
-    background: white;
+    background: rgb(170, 170, 170);
     width: 300px;
     text-align: center;
     padding: 5px;
