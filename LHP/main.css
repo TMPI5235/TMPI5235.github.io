@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+}
+div{
+    background: rgb(170, 170, 170);
+    width: 300px;
+    text-align: center;
+    padding: 5px;
+    margin: 30px auto;
+}
+table, th, td {
+    border: solid 1px rgb(255, 0, 0); 
+    background-color: rgb(182, 182, 182);
+}
