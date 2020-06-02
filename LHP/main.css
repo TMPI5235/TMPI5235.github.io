@@ -1,7 +1,7 @@
 body {
     background-color: aqua;
 }
-div{
+div #test{
     background: rgb(170, 170, 170);
     width: 300px;
     text-align: center;
