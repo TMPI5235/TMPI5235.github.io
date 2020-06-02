@@ -1,9 +1,16 @@
 body {
     background-color: aqua;
 }
-
+div{
+    background: white;
+    width: 300;
+}
 table, th, td {
     border: solid 1px gray; 
     background-color: blue;
     column-rule-color: crimson;
+}
+ul, li{
+
+
 }
