@@ -3,6 +3,7 @@ body {
 }
 
 table, th, td {
-    border: solid 1px gray;
+    border: solid 1px gray; 
     background-color: blue;
+    column-rule-color: crimson;
 }
