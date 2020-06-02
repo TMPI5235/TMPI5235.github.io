@@ -3,7 +3,7 @@ body {
 }
 div{
     background: white;
-    width: 300;
+    width: 300px;
 }
 table, th, td {
     border: solid 1px gray; 
