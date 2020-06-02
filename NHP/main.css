@@ -1,9 +1,9 @@
 body{
     background-color: white;
 }
-#news{
+.news{
     width: 500px;
-    height: 500px;
-    /*text-align: center;
+    /*height: 500px;
+    text-align: center;
     margin: auto auto;*/
 }
