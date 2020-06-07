@@ -12,3 +12,6 @@ body{
     height: auto;
     border: 2px solid gray;
 }
+.nav{
+    display: inline;
+}
