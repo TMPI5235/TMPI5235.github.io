@@ -1,5 +1,9 @@
 body{
     background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    border: 3ps soild blue;
 }
 .news{
     width: 50%;
@@ -14,4 +18,8 @@ body{
 }
 .nav{
     display: inline;
+}
+img{
+    display: block;
+    margin: 0 auto;
 }
