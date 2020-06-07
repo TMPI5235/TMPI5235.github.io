@@ -1,0 +1,9 @@
+header{
+    border-bottom:1px solid gray;
+}
+.logo_img{
+    width: 140px;
+    margin-left: 30px;
+}
+.nav{
+    display: inline;
