@@ -1,0 +1,17 @@
+footer{
+    color: gray;
+    border-top: 1px solid gray;
+    text-align: center;
+    margin: 54px auto 0;
+    padding: 20px 0 0;
+}    
+#copy_write{
+    text-align: right;
+    font-size: smaller;
+}
+a#footer ,
+footer p,
+p#footer{
+    margin: 0px;
+    color: gray;
+}
